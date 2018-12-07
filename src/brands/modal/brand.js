@@ -8,7 +8,7 @@ function Brands (props) {
 			{
 				props.brandNames.map((item) =>{
 					return(
-						<Brand brands={item.name} {...item} key={item.id} dayData={item}/>
+						<Brand brands={item.name} {...item} key={item.id} dayData={item} month={props.month}/>
 					)
 				})
 			}

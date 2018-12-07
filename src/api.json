@@ -2,563 +2,1083 @@
 	"milk":[
 		{
 			"name":"nestle",
+			"image":"./images/nestle.png",
 			"id": "1",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
-				"sale":"54"
+				"sale":"20"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
-				"sale":"54"
+				"sale":"15"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
-				"sale":"54"
+				"sale":"10"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
-				"sale":"54"
+				"sale":"2"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
-				"sale":"54"
+				"sale":"25"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
-				"sale":"54"
+				"sale":"30"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
-				"sale":"54"
+				"sale":"20"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"54",
-				"july":"56",
-				"august":"25",
-				"september":"53",
-				"october":"56",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"1"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"15"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"20"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"35"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"20"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"15"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"20"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"10"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"15"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"20"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"30"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"33"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"22"
+				}
+			]
 		},
 		{
 		"name":"vita",
+			"image":"./images/Vita.png",
 			"id": "2",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
-				"sale":"54"
+				"sale":"15"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
-				"sale":"54"
+				"sale":"10"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
-				"sale":"54"
+				"sale":"30"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
-				"sale":"54"
+				"sale":"10"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
-				"sale":"54"
+				"sale":"20"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
-				"sale":"54"
+				"sale":"10"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
-				"sale":"54"
+				"sale":"32"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"2"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"20"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"21"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"10"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"15"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"30"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"10"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"5"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"10"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"15"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"13"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"18"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"20"
+				}
+			]
 		},
 		{
 			"name":"lactel",
+			"image":"./images/Lactel.png",
 			"id": "3",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
-				"sale":"54"
+				"sale":"15"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
-				"sale":"54"
+				"sale":"55"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
-				"sale":"54"
+				"sale":"20"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
-				"sale":"54"
+				"sale":"10"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
-				"sale":"54"
+				"sale":"13"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
-				"sale":"54"
+				"sale":"14"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
-				"sale":"54"
+				"sale":"11"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"3"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"12"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"20"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"32"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"20"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"15"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"13"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"10"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"5"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"10"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"15"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"20"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"10"
+				}
+			]
 		},
 		{
 		"name":"parmalat",
+			"image":"./images/parmalat.png",
 			"id": "4",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
-				"sale":"54"
+				"sale":"11.5"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
-				"sale":"54"
+				"sale":"15.5"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
-				"sale":"54"
+				"sale":"12"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
-				"sale":"54"
+				"sale":"21"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
-				"sale":"54"
+				"sale":"18"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
-				"sale":"54"
+				"sale":"23"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
-				"sale":"54"
+				"sale":"20"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"4"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"21"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"20"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"15"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"12"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"11"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"17"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"13"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"18"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"11"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"12"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"22"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"20"
+				}
+			]
 		},
 		{
 			"name":"celia",
+			"image":"./images/celia.png",
 			"id": "5",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
-				"sale":"54"
+				"sale":"20"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
-				"sale":"54"
+				"sale":"25"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
-				"sale":"54"
+				"sale":"23"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
-				"sale":"54"
+				"sale":"44"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
-				"sale":"54"
+				"sale":"52"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
+				"id":"6",
+				"sale":"22"
+				},
+				{
+				"day":"sun",
+				"id":"7",
+				"sale":"11"
+				}
+			],
+			"year":[{
+				"yearlysale":"80",
+				"id":"5"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"12"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"21"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"32"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"22"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"25"
+				},
+				{
+				"day":"jun",
 				"id":"6",
 				"sale":"54"
 				},
 				{
-				"day":"sunday",
+				"day":"jul",
 				"id":"7",
-				"sale":"54"
+				"sale":"21"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"24"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"22"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"23"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"22"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"11"
 				}
-			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			]
 		},
 		{
 			"name":"leon",
+			"image":"./images/leon.png",
 			"id": "6",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
-				"sale":"54"
+				"sale":"23"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
-				"sale":"54"
+				"sale":"33"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
-				"sale":"54"
+				"sale":"15"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
-				"sale":"54"
+				"sale":"11"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
-				"sale":"54"
+				"sale":"23"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
-				"sale":"54"
+				"sale":"10"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
-				"sale":"54"
+				"sale":"5"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"6"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"5"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"8"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"10"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"12"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"13"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"1"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"14"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"22"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"25"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"2"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"12"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"22"
+				}
+			]
 		},
 		{
 		"name":"santaclara",
+			"image":"./images/santa-clara.png",
 			"id": "7",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
 				"sale":"54"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
 				"sale":"54"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
 				"sale":"54"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
 				"sale":"54"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
 				"sale":"54"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
 				"sale":"54"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
 				"sale":"54"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"7"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"21"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"10"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"15"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"10"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"15"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"22"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"10"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"15"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"21"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"23"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"15"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"10"
+				}
+			]
 		},
 		{
 		"name":"lala",
+			"image":"./images/lala.png",
 			"id": "8",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
-				"sale":"54"
+				"sale":"15"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
-				"sale":"54"
+				"sale":"55"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
-				"sale":"54"
+				"sale":"15"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
-				"sale":"54"
+				"sale":"22"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
-				"sale":"54"
+				"sale":"33"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
-				"sale":"54"
+				"sale":"22"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
-				"sale":"54"
+				"sale":"11"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"8"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"22"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"33"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"22"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"11"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"11"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"22"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"33"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"15"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"17"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"25"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"53"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"20"
+				}
+			]
 		},
 		{
 		"name":"reyleche",
+			"image":"./images/reyleche.png",
 			"id": "9",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
 				"sale":"54"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
 				"sale":"54"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
 				"sale":"54"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
 				"sale":"54"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
 				"sale":"54"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
 				"sale":"54"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
 				"sale":"54"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"11"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"54"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"54"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"54"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"54"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"54"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"54"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"54"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"54"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"54"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"54"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"54"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"54"
+				}
+			]
 		},
 		{
 		"name":"alqueria",
+			"image":"./images/alqueria.png",
 			"id": "10",
 			"week":[
 				{
-				"day":"monday",
+				"day":"mon",
 				"id":"1",
 				"sale":"54"
 				},
 				{
-				"day":"tuesday",
+				"day":"tues",
 				"id":"2",
 				"sale":"54"
 				},
 				{
-				"day":"wednesday",
+				"day":"wed",
 				"id":"3",
 				"sale":"54"
 				},
 				{
-				"day":"thursday",
+				"day":"thur",
 				"id":"4",
 				"sale":"54"
 				},
 				{
-				"day":"friday",
+				"day":"fri",
 				"id":"5",
 				"sale":"54"
 				},
 				{
-				"day":"saturday",
+				"day":"sat",
 				"id":"6",
 				"sale":"54"
 				},
 				{
-				"day":"sunday",
+				"day":"sun",
 				"id":"7",
 				"sale":"54"
 				}
 			],
-			"year":"8bill",
-			"month":{
-				"january":"25",
-				"february":"53",
-				"march":"30",
-				"april":"40",
-				"may":"20",
-				"juny":"15",
-				"july":"80",
-				"august":"25",
-				"september":"53",
-				"october":"30",
-				"november":"40",
-				"december":"20"
-			}
+			"year":[{
+				"yearlysale":"80",
+				"id":"10"
+			}],
+			"month":[
+				{
+				"day":"jan",
+				"id":"1",
+				"sale":"54"
+				},
+				{
+				"day":"feb",
+				"id":"2",
+				"sale":"54"
+				},
+				{
+				"day":"mar",
+				"id":"3",
+				"sale":"54"
+				},
+				{
+				"day":"apr",
+				"id":"4",
+				"sale":"54"
+				},
+				{
+				"day":"may",
+				"id":"5",
+				"sale":"54"
+				},
+				{
+				"day":"jun",
+				"id":"6",
+				"sale":"54"
+				},
+				{
+				"day":"jul",
+				"id":"7",
+				"sale":"54"
+				},
+								{
+				"day":"aug",
+				"id":"8",
+				"sale":"54"
+				},
+				{
+				"day":"sep",
+				"id":"9",
+				"sale":"54"
+				},
+				{
+				"day":"oct",
+				"id":"10",
+				"sale":"54"
+				},
+				{
+				"day":"nov",
+				"id":"11",
+				"sale":"54"
+				},
+				{
+				"day":"dec",
+				"id":"12",
+				"sale":"54"
+				}
+			]
 		}
 	]
 }
