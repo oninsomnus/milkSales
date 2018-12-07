@@ -27,7 +27,7 @@ function Days (props) {
 
 	return(
 		<div className="chart">
-			<FlexibleXYPlot height={700} xType="ordinal" margin={{left: 70, bottom: 50}}>
+			<FlexibleXYPlot height={700} xType="ordinal" margin={{left: 70, bottom: 50, top: 50}}>
 				<VerticalGridLines style={{stroke: '#39bfc1'}}/>
 	  			<HorizontalGridLines style={{stroke: '#39bfc1'}}/>
 				<XAxis title="Days" />

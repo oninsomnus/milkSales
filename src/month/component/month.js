@@ -25,7 +25,7 @@ function Month (props) {
 
 	return(
 		<div>
-			<FlexibleWidthXYPlot height={600} xType="ordinal" margin={{left: 70, bottom: 50}}>
+			<FlexibleWidthXYPlot height={600} xType="ordinal" margin={{left: 70, bottom: 50, top: 50}}>
 				<VerticalGridLines style={{stroke: '#39bfc1'}}/>
 	  			<HorizontalGridLines style={{stroke: '#39bfc1'}}/>
 				<XAxis title="Month" />
