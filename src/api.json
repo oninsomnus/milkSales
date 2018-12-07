@@ -2,7 +2,7 @@
 	"milk":[
 		{
 			"name":"nestle",
-			"image":"../../images/nestle.png",
+			"image":"../images/nestle.png",
 			"id": "1",
 			"week":[
 				{
@@ -110,7 +110,7 @@
 		},
 		{
 		"name":"vita",
-			"image":"../../images/Vita.png",
+			"image":"../images/Vita.png",
 			"id": "2",
 			"week":[
 				{
@@ -218,7 +218,7 @@
 		},
 		{
 			"name":"lactel",
-			"image":"../../images/Lactel.png",
+			"image":"../images/Lactel.png",
 			"id": "3",
 			"week":[
 				{
@@ -326,7 +326,7 @@
 		},
 		{
 		"name":"parmalat",
-			"image":"../../images/parmalat.png",
+			"image":"../images/parmalat.png",
 			"id": "4",
 			"week":[
 				{
@@ -434,7 +434,7 @@
 		},
 		{
 			"name":"celia",
-			"image":"../../images/celia.png",
+			"image":"../images/celia.png",
 			"id": "5",
 			"week":[
 				{
@@ -542,7 +542,7 @@
 		},
 		{
 			"name":"leon",
-			"image":"../../images/leon.png",
+			"image":"../images/leon.png",
 			"id": "6",
 			"week":[
 				{
@@ -650,7 +650,7 @@
 		},
 		{
 		"name":"santaclara",
-			"image":"../../images/santa-clara.png",
+			"image":"../images/santa-clara.png",
 			"id": "7",
 			"week":[
 				{
@@ -758,7 +758,7 @@
 		},
 		{
 		"name":"lala",
-			"image":"../../images/lala.png",
+			"image":"../images/lala.png",
 			"id": "8",
 			"week":[
 				{
@@ -866,7 +866,7 @@
 		},
 		{
 		"name":"reyleche",
-			"image":"../../images/reyleche.png",
+			"image":"../images/reyleche.png",
 			"id": "9",
 			"week":[
 				{
@@ -974,7 +974,7 @@
 		},
 		{
 		"name":"alqueria",
-			"image":"../../images/alqueria.png",
+			"image":"../images/alqueria.png",
 			"id": "10",
 			"week":[
 				{
